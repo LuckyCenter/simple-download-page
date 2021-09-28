@@ -8,4 +8,4 @@ A simple download page.
 
 ## 效果展示
 
-![1](https://github.com/LuckyCenter/simple-download-page/blob/main/assets/1.png?raw=true)
+![1](https://github.com/LuckyCenter/simple-download-page/blob/main/ScreenShots/1.png?raw=true)
